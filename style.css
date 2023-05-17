@@ -1,0 +1,29 @@
+body{
+   
+    margin: 20px;
+    height: 700px;
+    /* background-image: conic-gradient(rgb(149, 218, 236), rgb(106, 148, 183)); */
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(194,180,217,1) 45%, rgba(153,186,231,1) 94%, rgba(148,187,233,1) 100%);
+
+}
+#playH{
+    width: 260px;
+    max-width: fit-content;
+}
+
+    h3{
+
+        margin-top: 10rem;
+        font-size: xx-large;
+    }
+
+ #reset-button {
+    justify-content: center;
+    width: 280px;
+    display: flex;
+    margin: 77px auto 0;
+  }
+ #player{
+    width: 260px;
+ }
